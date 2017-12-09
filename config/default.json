@@ -1,0 +1,7 @@
+{
+  "database": "naans_api",
+  "secret": "OhThisIsVerySecure!!!",
+  "root": "/home/webneat/workspace/projects/naans/api",
+  "pictures_path": "photos",
+  "domain": "http://localhost:3001"
+}
