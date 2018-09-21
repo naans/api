@@ -54,6 +54,11 @@ const app = api({
     }
 })
 
+app.use((req, res, next) => {
+    console.log(req)
+    next()
+})
+
 app.use('/photos', express.static(`${config.get('root')}/${config.get('pictures_path')}`))
 
 app.resource(Category, {

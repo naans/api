@@ -1,0 +1,175 @@
+[
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113e4",
+            "5a2bf5dc1670524f6d4113d4",
+            "5a2bf5dc1670524f6d4113e0"
+        ],
+        "id": "5a2bf5db1670524f6d411328",
+        "name": "Salades",
+        "priority": 5,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d411327",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d411404",
+            "5a2bf5dc1670524f6d411406",
+            "5a2bf5dc1670524f6d411408",
+            "5a2bf5dc1670524f6d4113fa",
+            "5a2bf5dc1670524f6d41140a",
+            "5a2bf5dc1670524f6d41140c",
+            "5a2bf5dc1670524f6d41140e",
+            "5a2bf5dc1670524f6d411410"
+        ],
+        "id": "5a2bf5db1670524f6d41132a",
+        "name": "Sandwitches",
+        "priority": 2,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d411329",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": true
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113f4",
+            "5a2bf5dc1670524f6d4113f6",
+            "5a2bf5dc1670524f6d4113b0",
+            "5a2bf5dc1670524f6d4113d8",
+            "5a2bf5dc1670524f6d4113e2"
+        ],
+        "id": "5a2bf5db1670524f6d41132c",
+        "name": "Paninis",
+        "priority": 6,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d41132b",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113c0",
+            "5a2bf5dc1670524f6d4113c2",
+            "5a2bf5dc1670524f6d4113c4",
+            "5a2bf5dc1670524f6d4113c6",
+            "5a2bf5dc1670524f6d4113c8",
+            "5a2bf5dc1670524f6d4113ca",
+            "5a2bf5dc1670524f6d4113cc",
+            "5a2bf5dc1670524f6d4113ce",
+            "5a2bf5dc1670524f6d4113d0",
+            "5a2bf5dc1670524f6d4113d2"
+        ],
+        "id": "5a2bf5db1670524f6d41132e",
+        "name": "Assiettes",
+        "priority": 1,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d41132d",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": true
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113dc",
+            "5a2bf5dc1670524f6d4113de",
+            "5a2bf5dc1670524f6d41137f",
+            "5a2bf5dc1670524f6d41138a"
+        ],
+        "id": "5a2bf5db1670524f6d411330",
+        "name": "Braquettes",
+        "priority": 7,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d41132f",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113e6",
+            "5a2bf5dc1670524f6d41138c",
+            "5a2bf5dc1670524f6d4113ae",
+            "5a2bf5dc1670524f6d4113d6"
+        ],
+        "id": "5a2bf5db1670524f6d411332",
+        "name": "Burgers",
+        "priority": 3,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d411331",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": true
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113e8",
+            "5a2bf5dc1670524f6d4113f8",
+            "5a2bf5dc1670524f6d4113b2",
+            "5a2bf5dc1670524f6d4113da"
+        ],
+        "id": "5a2bf5db1670524f6d411334",
+        "name": "Pattes",
+        "priority": 4,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d411333",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": true
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113b4",
+            "5a2bf5dc1670524f6d4113b6",
+            "5a2bf5dc1670524f6d4113b8",
+            "5a2bf5dc1670524f6d4113ba"
+        ],
+        "id": "5a2bf5db1670524f6d411336",
+        "name": "Desserts",
+        "priority": 8,
+        "picture": "http://api.naans.fr/pictures/5a2bf5db1670524f6d411335",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113ea",
+            "5a2bf5dc1670524f6d4113ec",
+            "5a2bf5dc1670524f6d4113ee",
+            "5a2bf5dc1670524f6d4113f0",
+            "5a2bf5dc1670524f6d4113f2"
+        ],
+        "id": "5a2bf5dc1670524f6d4113bc",
+        "name": "Boissons",
+        "priority": 9,
+        "picture": "http://api.naans.fr/pictures/5a2bf5dc1670524f6d4113bb",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    },
+    {
+        "meals": [
+            "5a2bf5dc1670524f6d4113fc",
+            "5a2bf5dc1670524f6d4113fe",
+            "5a2bf5dc1670524f6d411400",
+            "5a2bf5dc1670524f6d411402"
+        ],
+        "id": "5a2bf5dc1670524f6d4113be",
+        "name": "Autres",
+        "priority": 10,
+        "picture": "http://api.naans.fr/pictures/5a2bf5dc1670524f6d4113bd",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    },
+    {
+        "meals": [
+            "5ba53fbc4a9a9206f3b10da1"
+        ],
+        "id": "5ba53f7d4a9a9206f3b10d9f",
+        "name": "Tacos",
+        "priority": 100,
+        "picture": "http://api.naans.fr/pictures/5ba53f694a9a9206f3b10d9e",
+        "description": "...",
+        "showOnNavbar": true,
+        "showOnHomePage": false
+    }
+]
