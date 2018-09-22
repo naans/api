@@ -1,5 +1,5 @@
 {
-  "database": "naans_api",
+  "database": "mongodb://localhost/naans_api",
   "secret": "OhThisIsVerySecure!!!",
   "root": "/home/webneat/workspace/projects/naans/api",
   "pictures_path": "photos",
