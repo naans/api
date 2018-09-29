@@ -1,7 +1,8 @@
 const router = require('express').Router()
     , User   = require('../resources/User')
+    , auth   = require('../mws/auth')
 
-router.put('/me', (req, res) => {
+router.put('/me', auth, (req, res) => {
     if (req.user.name != req.body.name)
         return res.status(400).json({
             _error: 'Erreur de validation',

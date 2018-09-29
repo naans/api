@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    command: bash -c "npx nodemon app.js"
+    expose:
+      - "3001"
+    ports:
+      - 3001:3001
+  mongo:
+    volumes:
+      - ./storage/mongo:/data/db

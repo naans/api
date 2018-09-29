@@ -1,7 +1,7 @@
 {
-  "database": "mongodb://localhost/naans_api",
+  "database": "mongodb://mongo/naans_api",
   "secret": "OhThisIsVerySecure!!!",
-  "root": "/home/webneat/workspace/projects/naans/api",
+  "root": "/app",
   "pictures_path": "photos",
   "domain": "http://localhost:3001"
 }

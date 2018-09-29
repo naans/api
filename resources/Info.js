@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
     , Schema = mongoose.Schema
 
 const schema = new Schema({
-    halal: String,
+  halal: String,
 	address: String,
 	phone: String,
 	openingTime: String,
